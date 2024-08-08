@@ -1,0 +1,41 @@
+\\Codigo 1//
+
+Exercicio 1- Simula um dado denso lançado
+
+Exercicio 2- As variaveis são: resultado, chutes, comparacao, acertos, acuracia.
+
+Exercicio 3- Sim exige, biblioteca chamada "random"
+
+Exercicio 4- É importante para gerar os números aleatorios de 1 a 6
+
+Exercicio 5- Laço "for z in range(3)" = Faz a função lancar_dado sortear 3 números e adicionar eles na variavel resultado.
+
+         Laço "for j in range(3)" = Pergunta para o usuario 3 números, e adiciona eles na variavel chute, e se resultado = chute, então, adiciona "1" na variavel comparacao, senão adiciona um "0".
+
+Exercicio 6- O método de teste foi iniciar o codigo e colocar os 3 números que pede e esperar retornar o números sorteados.
+
+Exercicio 7- O sistema falha na hora do usuario colocar os números, pois um dado possui apenas 6 lados, no sistema se for colocado um número maior que 6 ele aceita, o certo era não aceitar.
+
+Exercicio 8- O ideal seria utilizar o if como método de verificação dos números computados.
+
+\\Codigo 2//
+
+Exercicio 1- Simula um dado denso lançado, e o chutes que o usuario faz.
+
+Exercicio 2- As variaveis são: resultado, chutes, comparacao, quantidade, acuracia, acertos.
+
+Exercicio 3- Sim exige, biblioteca "random"
+
+Exercicio 4- É importante para gerar os números aleatorios de 1 a 6 dos números sorteados, e os números sorteados do usuario.
+
+Exercicio 5- Laço "for i in range(quantidade)" = Faz a função lancar_dado sortear 3 números e adicionar eles na variavel resultado.
+
+         Laço "for k in range(quantidade)" = Faz a função chutar_dado sortear 3 números e adicionar eles na variavel chutes.
+
+         Laço "for j in range(quantidade)" = Se resultado = chute, então, adiciona "1" na variavel comparacao, senão adiciona um "0".
+
+Exercicio 6- O método de teste foi aumentar um pouco a quantidade, para saber se o codigo suporta muitas pessoas usando ele.
+
+Exercicio 7- O sistema falha porque não suporta muitas pessoas usando ao mesmo tempo.
+
+Exercicio 8- O ideal seria utilizar banco de dados e ter uma maquina muito potente.
